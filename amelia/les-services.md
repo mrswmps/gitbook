@@ -8,7 +8,7 @@ Les services sont comme des produits mise à la vente, et qui doivent être clas
 
 Pour ajouter un service, il suffit de se rendre dans la section "Services"
 
-<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption><p>Affichage des sections de l'extension</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6) (1).png" alt=""><figcaption><p>Affichage des sections de l'extension</p></figcaption></figure>
 
 Ensuite, il faut créer différentes catégories afin de pouvoir créer un service et le catégoriser.
 
@@ -32,7 +32,7 @@ Maintenant il faut l'afficher dans l'une des pages du site, donc pour cela, il f
 
 Les différents affichages sont expliqués sous cette image
 
-<figure><img src="../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (12) (1).png" alt=""><figcaption></figcaption></figure>
 
 * Booking Form -> Un formulaire de réservation à remplir
 * Event List -> Un affichage des événements avec un détail complet
@@ -41,4 +41,4 @@ Les différents affichages sont expliqués sous cette image
 
 Chacun des formulaires peuvent être totalement personnalisable dans la section "Personnaliser"
 
-<figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption><p>Section pour personnaliser l'affichage</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (10) (1).png" alt=""><figcaption><p>Section pour personnaliser l'affichage</p></figcaption></figure>

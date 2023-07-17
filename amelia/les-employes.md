@@ -4,7 +4,7 @@ Chaque service, vu plus tard dans la documentation, doit être dirigé et mainte
 
 Pour cela, il faut se rendre dans la section "Employées".
 
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption><p>Informations des employées</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1).png" alt=""><figcaption><p>Informations des employées</p></figcaption></figure>
 
 ## Ajouter un employé(e)
 

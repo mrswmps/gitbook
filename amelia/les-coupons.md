@@ -2,15 +2,15 @@
 
 Si vous souhaitez ajouter des remise à des clients sur des services, il est tout à fait possible de le faire dans la section "Finance".
 
-<figure><img src="../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (15) (1).png" alt=""><figcaption></figcaption></figure>
 
 Puis cliquer à côté de "Paiement", la catégorie "Coupons"
 
-<figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (9) (1).png" alt=""><figcaption></figcaption></figure>
 
 Cliquer sur "Nouveau coupon", et désormais d'ajouter les informations nécessaires à ce coupon pour qu'il soit valide lors d'un futur achat d'un service.
 
-<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Les coupons peuvent être valides **uniquement** sur des services sélectionnées.
@@ -34,4 +34,4 @@ Si le nom du coupon saisi ne marche pas, il se peut que le coupon soit erroné o
 En revanche, si le coupon fonctionne, alors le "Sous-total" changera le prix définitif.
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (8) (1).png" alt=""><figcaption></figcaption></figure>
